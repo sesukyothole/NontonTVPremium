@@ -1,0 +1,6 @@
+{
+  "name": "Nonton TV Streaming",
+  "description": "Aplikasi nonton siaran TV streaming responsif dilengkapi jadwal tayang, pengingat acara favorit, dukungan DRM, multi-screen, dan kustomisasi playlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
